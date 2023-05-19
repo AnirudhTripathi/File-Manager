@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="Recents"
+        android:icon="@drawable/recents"
+        android:id="@+id/recents"
+
+        />
+
+    <item android:title="Browse"
+        android:icon="@drawable/browse"
+        android:id="@+id/browse"
+
+        />
+
+
+    <item android:title="Cloud"
+        android:icon="@drawable/cloud_storage"
+        android:id="@+id/cloud"
+        />
+
+</menu>
